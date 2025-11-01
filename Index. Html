@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gastronomia Moçambicana</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Restaurante Gastronomia Moçambicana</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="sobre.html">Sobre</a>
+      <a href="reservas.html">Reservas</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Menu de Pratos Típicos</h2>
+    <img src="matapa.jpg" alt="Matapa" class="imagem-menu">
+    <table>
+      <tr><th>Prato</th><th>Preço (MT)</th></tr>
+      <tr><td>Matapa com arroz</td><td>350</td></tr>
+      <tr><td>Caril de amendoim com peixe</td><td>420</td></tr>
+      <tr><td>Frango à Zambeziana</td><td>400</td></tr>
+      <tr><td>Camarão grelhado com coco</td><td>550</td></tr>
+      <tr><td>Feijoada Moçambicana</td><td>320</td></tr>
+      <tr><td>Xima com peixe frito</td><td>280</td></tr>
+      <tr><td>Piri-piri de frango</td><td>390</td></tr>
+      <tr><td>Mucapata (arroz com feijão e coco)</td><td>300</td></tr>
+    </table>
+  </main>
+
+  <footer>
+    <p>Trabalho de TIC - Escola Secundária de Monapo</p>
+    <p><strong>Grupo:</strong> Carimo Abdala, Sumaila Oscar, Gerson Alferes, Manssur Ussene, Ezequiel da Paula, 
+    Celsa Araújo, Priscila João, Alice Bolacha, Mirela de Georgina Amandinho, 
+    Suraia Rufino, Nihagnas Gamito.</p>
+  </footer>
+</body>
+</html>
